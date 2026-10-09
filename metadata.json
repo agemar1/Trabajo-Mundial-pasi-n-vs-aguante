@@ -1,0 +1,6 @@
+{
+  "name": "Código de Supervivencia Mundialista",
+  "description": "Guía interactiva de convivencia, pasión y respeto para vivir el mundial en Argentina con los colores celeste y blanco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
